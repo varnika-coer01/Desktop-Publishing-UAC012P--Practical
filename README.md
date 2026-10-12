@@ -51,3 +51,35 @@ Use the Spot Healing Brush Tool to remove small unwanted spots.
 Compare the edited image with the original image.
 Save the editable file in PSD format.
 Export the final edited image as a JPG.
+Practical 03 – Travel Poster Design Using Layers and Layer Masks
+Student Details
+Name: Varnika Tyagi
+Roll Number: Your Roll Number
+Course: BCA
+Semester: 3
+Objective
+
+To create an attractive travel poster by combining multiple photographs and using layers, layer masks, and text tools in Adobe Photoshop.
+
+Tools Used
+Move Tool
+Transform Tool
+Layer Mask
+Brush Tool
+Text Tool
+Layers Panel
+Shape Tool
+Steps
+Open Adobe Photoshop.
+Create a new document with a size of 1200 × 1600 pixels.
+Open three travel photographs, such as mountains, rivers, and landscapes.
+Place the photographs on the poster canvas.
+Arrange each photograph on a separate layer.
+Use Ctrl + T to resize and position the photographs.
+Add layer masks to the photographs.
+Use a soft brush on the layer masks to blend the images.
+Use the Text Tool to add the heading "TRAVEL TO MANALI".
+Add a subtitle, such as "Explore the Beauty of Nature".
+Adjust the font, size, colour, and position of the text.
+Save the editable file in PSD format.
+Export the final poster as a JPG image.
