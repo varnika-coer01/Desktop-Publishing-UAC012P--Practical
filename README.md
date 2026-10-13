@@ -185,3 +185,4 @@ To create a professional promotional poster by combining Photoshop skills learne
 * Blending Modes
 * Layer Styles
 * Custom Brushes
+
